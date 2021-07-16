@@ -1,0 +1,46 @@
+{
+  "uid" : "b829af32b293d08c",
+  "name" : "Navigation test to customer login",
+  "fullName" : "Home Page Test Suite.Navigation test to customer login",
+  "historyId" : "59051c4db7fbd1c478504a433c49c96",
+  "time" : {
+    "start" : 1626366020101,
+    "stop" : 1626366020527,
+    "duration" : 426
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home Page Test Suite"
+  }, {
+    "name" : "testClass",
+    "value" : "Home Page Test Suite"
+  }, {
+    "name" : "testMethod",
+    "value" : "Navigation test to customer login"
+  }, {
+    "name" : "package",
+    "value" : "Home Page Test Suite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b829af32b293d08c.json",
+  "parameterValues" : [ ]
+}

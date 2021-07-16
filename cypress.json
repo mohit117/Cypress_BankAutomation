@@ -1,0 +1,26 @@
+{
+
+"defaultCommandTimeout": 10000,
+"pageLoadTimeout": 10000,
+"env":{
+    "testUrl" : "http://www.way2automation.com/angularjs-protractor/banking/#/login"
+},
+
+"reporter":"mochawesome",
+"reporterOptions": {
+  
+    "reportFilename": "testReport",
+    "overwrite": false,
+ 
+    "html": true,
+  
+    "json": true,
+    "charts":true
+},
+
+"retries":{
+    "runMode" : 1,
+    "openMode" : 1
+}
+
+}

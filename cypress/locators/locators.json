@@ -1,0 +1,25 @@
+{
+
+    "homePageLocators":
+    {
+        "customerLoginButton" : ".center:nth-child(1)",
+        "bankManagerLoginButton" : ":nth-child(3) > .btn",
+        "homeButton": ".btn.home",
+        "mainHeading" : ".mainHeading"
+      
+    },
+
+    "managerPage":
+    {
+        "addCustomerButton":".btn.btn-lg.tab:nth-child(1)",
+        "openAccount" : ".btn.btn-lg.tab:nth-child(2)",
+        "customers": ".btn.btn-lg.tab:nth-child(3)",
+        "firstName" : ".form-group:nth-child(1)",
+        "lastName" : ".form-group:nth-child(2)",
+        "postCode" : ".form-group:nth-child(3)",
+        "addCustomerbtn":".btn.btn-default"
+
+    }
+
+
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "afd84017f1b25a2a",
+  "name" : "Navigation test to Bank Manager login",
+  "fullName" : "Home Page Test Suite.Navigation test to Bank Manager login",
+  "historyId" : "cf3e5e0c4a03759ca477ab049adc7b3e",
+  "time" : {
+    "start" : 1626366020534,
+    "stop" : 1626366020960,
+    "duration" : 426
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home Page Test Suite"
+  }, {
+    "name" : "testClass",
+    "value" : "Home Page Test Suite"
+  }, {
+    "name" : "testMethod",
+    "value" : "Navigation test to Bank Manager login"
+  }, {
+    "name" : "package",
+    "value" : "Home Page Test Suite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "afd84017f1b25a2a.json",
+  "parameterValues" : [ ]
+}

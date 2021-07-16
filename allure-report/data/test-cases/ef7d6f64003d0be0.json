@@ -1,0 +1,46 @@
+{
+  "uid" : "ef7d6f64003d0be0",
+  "name" : "demo tes1",
+  "fullName" : "Bank automation.demo tes1",
+  "historyId" : "8542d5f7e520d0f2ca994de5a9800f0e",
+  "time" : {
+    "start" : 1626366034314,
+    "stop" : 1626366037081,
+    "duration" : 2767
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Bank automation"
+  }, {
+    "name" : "testClass",
+    "value" : "Bank automation"
+  }, {
+    "name" : "testMethod",
+    "value" : "demo tes1"
+  }, {
+    "name" : "package",
+    "value" : "Bank automation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ef7d6f64003d0be0.json",
+  "parameterValues" : [ ]
+}

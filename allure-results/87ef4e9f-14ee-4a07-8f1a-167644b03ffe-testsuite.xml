@@ -1,0 +1,44 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1626366005097' stop='1626366020965'>
+    <name>Home Page Test Suite</name>
+    <title>Home Page Test Suite</title>
+    <test-cases>
+        <test-case start='1626366005127' status='broken' stop='1626366019739'>
+            <name>validate title</name>
+            <title>validate title</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Cannot read property 'homePageTitle' of undefined</message>
+                <stack-trace>TypeError: Cannot read property 'homePageTitle' of undefined
+                    at Context.eval (http://www.way2automation.com/__cypress/tests?p=cypress\integration\bankTestCases\homePageTest.js:116:45)</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1626366019788' status='passed' stop='1626366020098'>
+            <name>Elements visibility test</name>
+            <title>Elements visibility test</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1626366020101' status='passed' stop='1626366020527'>
+            <name>Navigation test to customer login</name>
+            <title>Navigation test to customer login</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1626366020534' status='passed' stop='1626366020960'>
+            <name>Navigation test to Bank Manager login</name>
+            <title>Navigation test to Bank Manager login</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

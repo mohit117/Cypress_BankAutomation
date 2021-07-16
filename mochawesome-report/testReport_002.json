@@ -1,0 +1,144 @@
+{
+  "stats": {
+    "suites": 1,
+    "tests": 3,
+    "passes": 3,
+    "pending": 0,
+    "failures": 0,
+    "start": "2021-07-15T15:18:19.096Z",
+    "end": "2021-07-15T15:18:21.187Z",
+    "duration": 2091,
+    "testsRegistered": 3,
+    "passPercent": 100,
+    "pendingPercent": 0,
+    "other": 0,
+    "hasOther": false,
+    "skipped": 0,
+    "hasSkipped": false
+  },
+  "results": [
+    {
+      "uuid": "0a3e4a4e-01a7-4445-bc77-6e9b4c6e989b",
+      "title": "",
+      "fullFile": "cypress/integration/testCases/firstTest.js",
+      "file": "cypress/integration/testCases/firstTest.js",
+      "beforeHooks": [],
+      "afterHooks": [],
+      "tests": [],
+      "suites": [
+        {
+          "uuid": "b095bc1d-8d0f-47e4-bb7d-0d3d55f634d8",
+          "title": "Bank automation",
+          "fullFile": "",
+          "file": "",
+          "beforeHooks": [],
+          "afterHooks": [],
+          "tests": [
+            {
+              "title": "demo tes1",
+              "fullTitle": "Bank automation demo tes1",
+              "timedOut": null,
+              "duration": 649,
+              "state": "passed",
+              "speed": "slow",
+              "pass": true,
+              "fail": false,
+              "pending": false,
+              "context": null,
+              "code": "cy.log(\"first test\");",
+              "err": {},
+              "uuid": "35b27d1c-0b00-4d24-8bd2-35a90963a4e5",
+              "parentUUID": "b095bc1d-8d0f-47e4-bb7d-0d3d55f634d8",
+              "isHook": false,
+              "skipped": false
+            },
+            {
+              "title": "demo test2",
+              "fullTitle": "Bank automation demo test2",
+              "timedOut": null,
+              "duration": 136,
+              "state": "passed",
+              "speed": "slow",
+              "pass": true,
+              "fail": false,
+              "pending": false,
+              "context": null,
+              "code": "cy.log(\"second test\");",
+              "err": {},
+              "uuid": "68b33bdd-eca3-421c-95de-dd926b5654b0",
+              "parentUUID": "b095bc1d-8d0f-47e4-bb7d-0d3d55f634d8",
+              "isHook": false,
+              "skipped": false
+            },
+            {
+              "title": "demo test3",
+              "fullTitle": "Bank automation demo test3",
+              "timedOut": null,
+              "duration": 138,
+              "state": "passed",
+              "speed": "slow",
+              "pass": true,
+              "fail": false,
+              "pending": false,
+              "context": null,
+              "code": "cy.log(\"third test\");",
+              "err": {},
+              "uuid": "84f2b242-5428-4068-ba37-d507b8264891",
+              "parentUUID": "b095bc1d-8d0f-47e4-bb7d-0d3d55f634d8",
+              "isHook": false,
+              "skipped": false
+            }
+          ],
+          "suites": [],
+          "passes": [
+            "35b27d1c-0b00-4d24-8bd2-35a90963a4e5",
+            "68b33bdd-eca3-421c-95de-dd926b5654b0",
+            "84f2b242-5428-4068-ba37-d507b8264891"
+          ],
+          "failures": [],
+          "pending": [],
+          "skipped": [],
+          "duration": 923,
+          "root": false,
+          "rootEmpty": false,
+          "_timeout": 2000
+        }
+      ],
+      "passes": [],
+      "failures": [],
+      "pending": [],
+      "skipped": [],
+      "duration": 0,
+      "root": true,
+      "rootEmpty": true,
+      "_timeout": 2000
+    }
+  ],
+  "meta": {
+    "mocha": {
+      "version": "7.0.1"
+    },
+    "mochawesome": {
+      "options": {
+        "quiet": false,
+        "reportFilename": "testReport",
+        "saveHtml": true,
+        "saveJson": true,
+        "consoleReporter": "spec",
+        "useInlineDiffs": false,
+        "code": true
+      },
+      "version": "6.2.2"
+    },
+    "marge": {
+      "options": {
+        "reportFilename": "testReport",
+        "overwrite": false,
+        "html": true,
+        "json": true,
+        "charts": true
+      },
+      "version": "5.2.0"
+    }
+  }
+}

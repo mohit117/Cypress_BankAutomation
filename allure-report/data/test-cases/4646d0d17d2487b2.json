@@ -1,0 +1,46 @@
+{
+  "uid" : "4646d0d17d2487b2",
+  "name" : "Elements visibility test",
+  "fullName" : "Home Page Test Suite.Elements visibility test",
+  "historyId" : "49324d087c016196c70cd5bc5d0a2b80",
+  "time" : {
+    "start" : 1626366019788,
+    "stop" : 1626366020098,
+    "duration" : 310
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home Page Test Suite"
+  }, {
+    "name" : "testClass",
+    "value" : "Home Page Test Suite"
+  }, {
+    "name" : "testMethod",
+    "value" : "Elements visibility test"
+  }, {
+    "name" : "package",
+    "value" : "Home Page Test Suite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4646d0d17d2487b2.json",
+  "parameterValues" : [ ]
+}

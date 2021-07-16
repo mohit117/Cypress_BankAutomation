@@ -1,0 +1,81 @@
+[ {
+  "uid" : "f2d51ef8955687bd",
+  "name" : "Add Customer Details",
+  "time" : {
+    "start" : 1626366026109,
+    "stop" : 1626366030347,
+    "duration" : 4238
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4646d0d17d2487b2",
+  "name" : "Elements visibility test",
+  "time" : {
+    "start" : 1626366019788,
+    "stop" : 1626366020098,
+    "duration" : 310
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8a1d415a700aad8a",
+  "name" : "demo test3",
+  "time" : {
+    "start" : 1626366037401,
+    "stop" : 1626366037884,
+    "duration" : 483
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "afd84017f1b25a2a",
+  "name" : "Navigation test to Bank Manager login",
+  "time" : {
+    "start" : 1626366020534,
+    "stop" : 1626366020960,
+    "duration" : 426
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "16ee56c74b2668f2",
+  "name" : "demo test2",
+  "time" : {
+    "start" : 1626366037096,
+    "stop" : 1626366037384,
+    "duration" : 288
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "18e31c08f46b2afb",
+  "name" : "validate title",
+  "time" : {
+    "start" : 1626366005127,
+    "stop" : 1626366019739,
+    "duration" : 14612
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "ef7d6f64003d0be0",
+  "name" : "demo tes1",
+  "time" : {
+    "start" : 1626366034314,
+    "stop" : 1626366037081,
+    "duration" : 2767
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b829af32b293d08c",
+  "name" : "Navigation test to customer login",
+  "time" : {
+    "start" : 1626366020101,
+    "stop" : 1626366020527,
+    "duration" : 426
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

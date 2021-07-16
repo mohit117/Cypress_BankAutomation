@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1626366034314' stop='1626366037897'>
+    <name>Bank automation</name>
+    <title>Bank automation</title>
+    <test-cases>
+        <test-case start='1626366034314' status='passed' stop='1626366037081'>
+            <name>demo tes1</name>
+            <title>demo tes1</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1626366037096' status='passed' stop='1626366037384'>
+            <name>demo test2</name>
+            <title>demo test2</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1626366037401' status='passed' stop='1626366037884'>
+            <name>demo test3</name>
+            <title>demo test3</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

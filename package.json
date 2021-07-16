@@ -1,0 +1,30 @@
+{
+  "name": "bankautomation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": ".\\node_modules\\.bin\\cypress run",
+    "headedTest": "npm run test -- --headed",
+    "chromeTest": "npm run test -- --browser chrome --reporter mochaswesome",
+    
+    "chromeTest-allure": "npm run test -- --browser chrome --reporter mocha-allure-reporter",
+    "generate-allurereports": "allure generate allure-results --clean -o allure-report && allure open allure-report",
+
+    "merge-report": "mochawesome-merge mochawesome-report/*.json > mochawesome.json",
+    "generate-reports": "merge mochawesome-report/mochawesome.json",
+    "finalTestRun": "npm run test -- --headed && npm run merge-report && npm run generate-reports",
+
+    "finalTestRun-allure": "npm run chromeTest-allure && npm run generate-allurereports"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "allure-commandline": "^2.13.8",
+    "cypress": "^7.7.0",
+    "mocha": "^9.0.2",
+    "mocha-allure-reporter": "^1.4.0",
+    "mochawesome": "^6.2.2",
+    "mochawesome-merge": "^4.2.0"
+  }
+}

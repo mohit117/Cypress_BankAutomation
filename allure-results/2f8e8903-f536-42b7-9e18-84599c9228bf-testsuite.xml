@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1626366026082' stop='1626366030375'>
+    <name>Bank Manageer Page Test Suite</name>
+    <title>Bank Manageer Page Test Suite</title>
+    <test-cases>
+        <test-case start='1626366026109' status='passed' stop='1626366030347'>
+            <name>Add Customer Details</name>
+            <title>Add Customer Details</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

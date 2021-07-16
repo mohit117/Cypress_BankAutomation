@@ -1,0 +1,52 @@
+{
+  "uid" : "18e31c08f46b2afb",
+  "name" : "validate title",
+  "fullName" : "Home Page Test Suite.validate title",
+  "historyId" : "f85431e64c05fb0add29431ed3ad86fe",
+  "time" : {
+    "start" : 1626366005127,
+    "stop" : 1626366019739,
+    "duration" : 14612
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "Cannot read property 'homePageTitle' of undefined",
+  "statusTrace" : "TypeError: Cannot read property 'homePageTitle' of undefined\n                    at Context.eval (http://www.way2automation.com/__cypress/tests?p=cypress\\integration\\bankTestCases\\homePageTest.js:116:45)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home Page Test Suite"
+  }, {
+    "name" : "testClass",
+    "value" : "Home Page Test Suite"
+  }, {
+    "name" : "testMethod",
+    "value" : "validate title"
+  }, {
+    "name" : "package",
+    "value" : "Home Page Test Suite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "18e31c08f46b2afb.json",
+  "parameterValues" : [ ]
+}

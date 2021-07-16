@@ -1,0 +1,46 @@
+{
+  "uid" : "f2d51ef8955687bd",
+  "name" : "Add Customer Details",
+  "fullName" : "Bank Manageer Page Test Suite.Add Customer Details",
+  "historyId" : "a1e0f6768c1cf5100c36fff1eae27453",
+  "time" : {
+    "start" : 1626366026109,
+    "stop" : 1626366030347,
+    "duration" : 4238
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Bank Manageer Page Test Suite"
+  }, {
+    "name" : "testClass",
+    "value" : "Bank Manageer Page Test Suite"
+  }, {
+    "name" : "testMethod",
+    "value" : "Add Customer Details"
+  }, {
+    "name" : "package",
+    "value" : "Bank Manageer Page Test Suite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f2d51ef8955687bd.json",
+  "parameterValues" : [ ]
+}
